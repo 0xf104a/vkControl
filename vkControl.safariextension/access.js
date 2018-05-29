@@ -1,6 +1,6 @@
-const allowed=["/im","/audios358995871"];
+const allowed=["/im","/audios<YOUR_ID_HERE>"];
 var loc=window.location.pathname;
-console.log("VKReloaded light:checking access...");
+console.log("VKControl:checking access...");
 if((allowed.indexOf(loc) == -1)){
   console.log("***Access denied***");
   window.location.replace("https://vk.com/im");

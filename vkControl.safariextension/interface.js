@@ -26,7 +26,7 @@ function addChildToId(Id,VNode){
     console.log(Id+" [FAILED]");
   }
 }
-console.log("***VKLight is enabled***")
+console.log("***VKControl is enabled***")
 console.log("Removing menu elements...")
 removeById("l_pr");
 removeById("l_nwsf");

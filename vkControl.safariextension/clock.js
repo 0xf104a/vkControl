@@ -6,8 +6,10 @@ function startTime() {
     var s = today.getSeconds();
     m = checkTime(m);
     s = checkTime(s);
-    document.getElementById('navbar_clock').innerHTML =
-    h + ":" + m;
+    elem=document.getElementById('navbar_clock');
+    if(elem){
+      elem.innerHTML = h + ":" + m;
+    }
     var t = setTimeout(startTime, 500);
 }
 function checkTime(i) {

@@ -7,9 +7,9 @@
 	<key>Builder Version</key>
 	<string>13605.1.33.1.4</string>
 	<key>CFBundleDisplayName</key>
-	<string>vkReloaded</string>
+	<string>vkControl</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.andre.vkReloaded</string>
+	<string>com.Andrewerr.vkControl</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -36,11 +36,13 @@
 		</array>
 	</dict>
 	<key>Description</key>
-	<string>vk Reloaded extnsion for Safari</string>
+	<string>Extension to remove distractious parts of vk.com</string>
 	<key>DeveloperIdentifier</key>
 	<string>0000000000</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
+	<key>Website</key>
+	<string>https://github.com/Andrewerr/vkControl</string>
 	<key>Permissions</key>
 	<dict>
 		<key>Website Access</key>

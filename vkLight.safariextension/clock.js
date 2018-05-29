@@ -1,3 +1,4 @@
+//Based on https://www.w3schools.com/js/tryit.asp?filename=tryjs_timing_clock
 function startTime() {
     var today = new Date();
     var h = today.getHours();

@@ -11,10 +11,12 @@ NodeList.prototype.remove = HTMLCollection.prototype.remove = function() {
 function removeById(Id){
   element=document.getElementById(Id);
   if(element){
-    element.outerHTML = ""
-    console.log(Id+" [OK]")
+    element.outerHTML = "";
+    console.log(Id+" [OK]");
+    return true;
   }else{
-    console.log(Id+" [IGNORED]")
+    console.log(Id+" [IGNORED]");
+    return false;
   }
 }
 function addChildToId(Id,VNode){

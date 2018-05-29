@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Andrewerr</string>
+	<key>Builder Version</key>
+	<string>13605.1.33.1.4</string>
+	<key>CFBundleDisplayName</key>
+	<string>vkReloaded</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.andre.vkReloaded</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>interface.js</string>
+				<string>clock.js</string>
+			</array>
+			<key>Start</key>
+			<array>
+				<string>access.js</string>
+			</array>
+		</dict>
+		<key>Stylesheets</key>
+		<array>
+			<string>reloaded.css</string>
+		</array>
+	</dict>
+	<key>Description</key>
+	<string>vk Reloaded extnsion for Safari</string>
+	<key>DeveloperIdentifier</key>
+	<string>0000000000</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>vk.com</string>
+				<string>m.vk.com</string>
+				<string>http://vk.com</string>
+				<string>https://vk.com</string>
+				<string>http://vk.com</string>
+				<string>https://vk.com</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

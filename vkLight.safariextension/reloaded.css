@@ -1,0 +1,91 @@
+#ts_wrap{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+.ts_wrap{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+#top_profile_link{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+
+#wide_column{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+.stories_feed_cont{
+    display: none;
+}
+.wall_wrap{
+    display: none;
+}
+.narrow_column{
+    display: none;
+}
+.wide_column{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+.left_menu_nav_wrap{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+._audio_friends_list_wrap{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+._audio_section_tab__updates{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+#top_notify_btn{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+.ui_search_custom_ctrl{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+.im-right-menu{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+.chat_onl_inner{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+.audio_page_player_share{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+._audio_page_player_status{
+    visibility: hidden;
+    height:0;
+    display: none;
+}
+#navbar_clock{
+  font-size: 20px;
+  color: white;
+  margin-top:6px;
+  user-select: none;
+  user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+}
